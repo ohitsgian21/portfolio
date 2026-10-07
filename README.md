@@ -1,6 +1,6 @@
 # Portfolio
 
-My personal site, live at [ohitsgianlabs.xyz](https://ohitsgianlabs.xyz). It covers who I am, what I have built, my skills and my work history, with a downloadable CV.
+My personal site, live at [www.ohitsgianlabs.xyz](https://www.ohitsgianlabs.xyz). It covers who I am, what I have built, my skills and my work history, with a downloadable CV.
 
 It is plain HTML, CSS and a little JavaScript. There is no framework and no build step, so the files in this repository are the site. It is served from this repository with GitHub Pages (the `CNAME` file holds the domain).
 
